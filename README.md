@@ -21,10 +21,15 @@ Run the following commands from vscode terminal:
 python -m venv venv
 ```
 
-Activate the virtual environment
+### Activate the virtual environment
 
+#### On Windows:
 ```
 venv\Scripts\activate
+```
+#### On macOS/Linux:
+```
+source venv/bin/activate
 ```
 
 ### Create a django project
