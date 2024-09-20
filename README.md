@@ -32,6 +32,11 @@ venv\Scripts\activate
 source venv/bin/activate
 ```
 
+### Install Django in the virtual environment
+```
+pip install django
+```
+
 ### Create a django project
 
 Create a `src` folder for your project
